@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 
-- 🔭 I’m currently working on Titanic Survival Prediction using CatBoost MLT.
+- 🔭 I’m currently working on EDA on Titanic Survival Prediction.
 - 🌱 I’m currently learning Ensemble Machine Learning Techniques and Exploratory Data Analysis.
 - 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.
 - 🤔 I’m looking for help with choosing the best model for a given project!
