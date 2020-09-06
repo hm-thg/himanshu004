@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.
 - 🤔 I’m looking for help with choosing the best model for a given project!
 - 💬 Ask me about various python libraries xD
-- 📫 How to reach me: Kaggle: https://www.kaggle.com/tug004, LinkedIn: https://www.linkedin.com/in/himanshumadan004/
+- 📫 How to reach me: Kaggle: https://www.kaggle.com/tug004, LinkedIn: https://www.linkedin.com/in/himanshumadan004/, AV: https://www.analyticsvidhya.com/user/himanshu_004
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you solve an AI complete problem, you can solve every problem in AI.
 However to solve it, you need to solve every problem in AI.
