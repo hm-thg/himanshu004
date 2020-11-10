@@ -9,6 +9,9 @@
   <img align="left" alt="Himanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on EDA using R.
 - 🌱 I’m currently learning Ensemble Machine Learning Techniques and Exploratory Data Analysis.
 - 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.
