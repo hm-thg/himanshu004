@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on machine learning projects.
+- 🔭 I’m currently working on machine learning projects on Streamlit.
 - 🌱 I’m currently learning Ensemble Machine Learning Techniques and Exploratory Data Analysis.
 - 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.
 - 🤔 I’m looking for help with choosing the best model for a given project!
