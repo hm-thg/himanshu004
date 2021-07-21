@@ -12,10 +12,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on machine learning projects on Streamlit.
-- 🌱 I’m currently learning Ensemble Machine Learning Techniques and Exploratory Data Analysis.
-- 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.
-- 🤔 I’m looking for help with choosing the best model for a given project!
+- 🔭 I’m currently working on Azure machine Learning.
+- 🌱 I’m currently learning Deep Learning using TensorFlow.
+- 👯 I’m looking to collaborate on any new Data Science Project and on Kaggle.<!-- - 🤔 I’m looking for help ! -->
 - 💬 Ask me about various python libraries xD
 - 📫 How to reach me: [Kaggle](https://www.kaggle.com/tug004), [LinkedIn](https://www.linkedin.com/in/himanshumadan004/), [Analytics Vidhya](https://www.analyticsvidhya.com/user/himanshu_004)
 - 😄 Pronouns: He/His
